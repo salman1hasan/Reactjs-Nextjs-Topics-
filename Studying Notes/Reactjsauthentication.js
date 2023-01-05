@@ -30,3 +30,14 @@
 
 //What is a mongoose model
 //its a wrap around for the mongoose model and schema.
+
+//What is dotenv
+//dot env is somewhere you can store your data and the way to use it is is to use configure. It's something that is important and vital
+//to your file to connect apis and much more
+
+//What is cors
+//Cross-Origin Request is a mechanism that enables web browsers or other web clients
+//goes from one request/response and then goes to pre-flight request
+
+//What is cookie parser
+//Cookie parser is a place whre you can create a cookie for your middleware api. Cookies are useful to store data and to store information necessary
